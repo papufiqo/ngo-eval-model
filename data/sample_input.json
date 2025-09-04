@@ -1,0 +1,42 @@
+{
+  "goal_achievement": {
+    "planned_activities": 45,
+    "completed_activities": 38,
+    "cerv_alignment": true,
+    "policy_outcomes_score": 4,
+    "recommendations_2023_addressed": 7,
+    "total_recommendations": 10
+  },
+  "work_capacity": {
+    "budget_efficiency_ratio": 0.85,
+    "monitoring_framework_score": "Good",
+    "risk_management_present": true,
+    "ethics_issues_identified": false,
+    "training_sessions": 6,
+    "avg_satisfaction": 4.2,
+    "youth_network_support_score": 3.8
+  },
+  "added_value": {
+    "policy_citations": 12,
+    "eu_meetings_attended": 8,
+    "partner_organisations": 15,
+    "social_media_impressions": 250000,
+    "accessible_content_percentage": 75,
+    "project_innovation_score": 4
+  },
+  "inclusiveness": {
+    "disabled_leadership": true,
+    "youth_involvement": true,
+    "all_materials_accessible": false,
+    "intersectional_approach": true,
+    "ethical_research": true
+  },
+  "qualitative": {
+    "interviews": [
+      "We need more youth involvement in decision-making.",
+      "The monitoring system is solid but underused.",
+      "Communication is strong but not always accessible.",
+      "More training needed for new members."
+    ]
+  }
+}
