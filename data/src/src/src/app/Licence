@@ -1,0 +1,7 @@
+
+---
+
+## ✅ 9. `output/` (folder)
+Create this folder to store generated reports:
+```bash
+mkdir output
