@@ -1,0 +1,35 @@
+weights:
+  goal_achievement:
+    activity_completion: 0.3
+    alignment_with_cerv: 0.25
+    policy_outcomes: 0.25
+    implementation_of_2023_rec: 0.2
+
+  work_capacity:
+    resource_efficiency: 0.2
+    monitoring_quality: 0.25
+    risk_ethics: 0.15
+    capacity_building: 0.2
+    youth_support: 0.2
+
+  added_value:
+    policy_influence: 0.3
+    stakeholder_engagement: 0.2
+    communication_reach: 0.25
+    project_innovation: 0.25
+
+scoring:
+  policy_outcomes_scale:
+    - { label: "No impact", score: 0 }
+    - { label: "Minor input", score: 1 }
+    - { label: "Contributed to discussion", score: 2 }
+    - { label: "Influenced policy draft", score: 3 }
+    - { label: "Led to policy change", score: 4 }
+    - { label: "Significant European impact", score: 5 }
+
+  rubric_5point:
+    "Very Poor": 1
+    "Poor": 2
+    "Fair": 3
+    "Good": 4
+    "Excellent": 5
